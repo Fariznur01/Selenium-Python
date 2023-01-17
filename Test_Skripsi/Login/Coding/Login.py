@@ -17,9 +17,9 @@ time.sleep(5)
 search_box = driver.find_element(By.NAME, "username")
 search_box2 = driver.find_element(By.NAME, "password")
 
-search_box.send_keys('admin')
+search_box.send_keys('#####')
 time.sleep(3)
-search_box2.send_keys('1234')
+search_box2.send_keys('####')
 search_box.submit()
 
 """""
