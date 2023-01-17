@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <a href=""><img src="/Login/Images/Selenium.png" width="200" hegiht="200" alt="Selenium" title="Optional title"></a>
+    <a href=""><img src="/Test_Skripsi/Login/Images/Selenium.png" width="200" hegiht="200" alt="Selenium" title="Optional title"></a>
 </div>
 <a name="readme-top"></a>
 <br>
