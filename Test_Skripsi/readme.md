@@ -35,7 +35,7 @@ Melakukan test case fitur login aplikasi berbasis website
 # 1. Test Login Password dan Username Benar
 | Fungsi Yang Di Uji | Skenario Pengujian                                       | Hasil Yang Diharapkan                                                                           | Kesimpulan |
 | ------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- |
-| Login              | Sistem Mengisi username dan password, lalu Login         | Sistem akan lalu akan diarahkan ke halaman dashboard                                            | Valid      |
+| Login              | Sistem Mengisi username dan password, lalu Login         | Sistem akan diarahkan ke halaman dashboard                                            | Valid      |
 
 https://user-images.githubusercontent.com/87837561/212834375-ce722832-e22f-4bae-8d32-d188e5a1273d.mp4
 
@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/87837561/212834375-ce722832-e22f-4bae-
 # 2. Test Login Password dan Username Salah
 | Fungsi Yang Di Uji | Skenario Pengujian                                               | Hasil Yang Diharapkan                                                                   | Kesimpulan |
 | ------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------- |
-| Login              | Sistem Mengisi username dan password salah, lalu  Login          | Sistem tidak dapat masusk ke  halaman dashboard                                         | Valid      |
+| Login              | Sistem Mengisi username dan password salah, lalu  Login          | Sistem tidak dapat masuk ke  halaman dashboard                                         | Valid      |
 
 
 https://user-images.githubusercontent.com/87837561/212834497-2f925f74-7917-4a93-850b-7f9557d86339.mp4
