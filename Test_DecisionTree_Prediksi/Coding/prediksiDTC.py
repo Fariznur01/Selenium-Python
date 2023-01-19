@@ -34,8 +34,8 @@ class TestPrediksiDTC():
     self.driver.find_element(By.NAME, "username").send_keys("admin")
     # 5 | click | id=myInput | 
     self.driver.find_element(By.ID, "myInput").click()
-    # 6 | type | id=myInput | 123
-    self.driver.find_element(By.ID, "myInput").send_keys("123")
+    # 6 | type | id=myInput | 
+    self.driver.find_element(By.ID, "myInput").send_keys("#####")
     # 7 | click | css=.btn | 
     self.driver.find_element(By.CSS_SELECTOR, ".btn").click()
     # 8 | click | css=#dtc > .bx | 
