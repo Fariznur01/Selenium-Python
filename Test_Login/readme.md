@@ -10,7 +10,7 @@
 
 [![Python3.10](https://img.shields.io/badge/python-3.10-blue.svg)]()
 [![Python3.8](https://img.shields.io/badge/python-3.8-blue.svg)]()
-[![Selenium.4.7.2](https://img.shields.io/badge/postgresql-4.7.2-deepskyblue.svg)]()
+[![Selenium.4.7.2](https://img.shields.io/badge/selenium-4.7.2-deepskyblue.svg)]()
 [![PyCharm.2021.2](https://img.shields.io/badge/pycharm-2021.2-yellow.svg)]()
 
 <!-- TABLE OF CONTENTS -->
